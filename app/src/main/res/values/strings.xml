@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application Java</string>
+    <string name="msg_btn_txt">Presiona Aqui</string>
+    <string name="ingresar_texto">ingresa algún texto</string>
+    <string-array name="paises">
+        <item>Alemania</item>
+        <item>España</item>
+        <item>Estados Unidos</item>
+        <item>Francia</item>
+        <item>Italia</item>
+    </string-array>
+</resources>
